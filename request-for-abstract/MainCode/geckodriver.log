@@ -1,0 +1,5 @@
+1697425207771	geckodriver	INFO	Listening on 127.0.0.1:62944
+1697425208293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofilePdaN4P"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment

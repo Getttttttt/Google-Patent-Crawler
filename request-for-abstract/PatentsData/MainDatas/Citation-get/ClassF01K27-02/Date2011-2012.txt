@@ -1,0 +1,12 @@
+id-EP2518283A2    citedBy-11
+id-KR20120115698A    citedBy-1
+id-US9677414B2    citedBy-10
+id-US20140110945A1    citedBy-7
+id-KR20130000914A    citedBy-6
+id-US20140305131A1    citedBy-2
+id-WO2013045243A1    citedBy-12
+id-WO2013046885A1    citedBy-18
+id-KR101814700B1    citedBy-3
+id-DE202011106101U1    citedBy- 
+id-KR101162619B1    citedBy-4
+id-WO2013072183A2    citedBy-8

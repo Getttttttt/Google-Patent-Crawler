@@ -1,0 +1,10 @@
+id-AT516376B1    citedBy- 
+id-DE102015202398A1    citedBy-4
+id-CN104727181B    citedBy-3
+id-EP3309294B1    citedBy-3
+id-FI126822B    citedBy- 
+id-DE102015214489A1    citedBy- 
+id-EP3150761B1    citedBy-2
+id-CN108138442A    citedBy- 
+id-CN108138443B    citedBy- 
+id-EP3165674B1    citedBy- 

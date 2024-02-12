@@ -1,0 +1,2 @@
+id-US8899061B2    abstract-An industrial heat load evaporative cooling system. The system includes multiple cooling towers and includes cooling coil heat transfer equipment locally associated with an industrial heat load, with the system subject to command and control equipment.
+id-US20160209087A1    abstract-This discloses apparatuses for industrial or commercial cooling (or any other cooling) using staged cooling towers to evaporatively reach temperatures below the wet bulb temperature of the ambient air. Methods for using such apparatuses are disclosed as well.

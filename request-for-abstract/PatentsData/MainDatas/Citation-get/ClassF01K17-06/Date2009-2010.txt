@@ -1,0 +1,11 @@
+id-US20100187822A1    citedBy-5
+id-DE102009007276A1    citedBy-1
+id-EP2406485B1    citedBy-15
+id-US8850817B2    citedBy-7
+id-AU2010202117B2    citedBy-36
+id-DE102009022491A1    citedBy-10
+id-WO2010136797A3    citedBy-1
+id-KR100983677B1    citedBy-14
+id-US8887505B2    citedBy-39
+id-DE102009035062A1    citedBy-10
+id-DE102009051845A1    citedBy-4

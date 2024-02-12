@@ -1,0 +1,14 @@
+id-JP2017503103A    citedBy-8
+id-US9791146B2    citedBy-2
+id-CA2941547A1    citedBy-2
+id-CA2890561C    citedBy-6
+id-CN105090926A    citedBy-4
+id-US9840939B2    citedBy- 
+id-KR20170044734A    citedBy-6
+id-CN104454406A    citedBy-1
+id-NL2014686B1    citedBy- 
+id-WO2016056896A1    citedBy- 
+id-DE102014221566A1    citedBy- 
+id-EP3733615B1    citedBy-25
+id-EP3225796A4    citedBy-6
+id-US20160138428A1    citedBy-5

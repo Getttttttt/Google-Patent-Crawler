@@ -1,0 +1,226 @@
+1691836618807	geckodriver	INFO	Listening on 127.0.0.1:55655
+1691836619322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofile93ELIG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691836619709	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691836619795	Marionette	INFO	Listening on port 55663
+WebDriver BiDi listening on ws://127.0.0.1:55656
+Read port: 55663
+1691836620042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55656/devtools/browser/c6a1ec40-78de-4644-b296-40867c8430af
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691836630980	Marionette	INFO	Stopped listening on port 55663
+Dynamically enable window occlusion 1
+1691836735429	geckodriver	INFO	Listening on 127.0.0.1:55844
+1691836735941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofilejdEDWF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691836736291	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691836736363	Marionette	INFO	Listening on port 55851
+WebDriver BiDi listening on ws://127.0.0.1:55845
+Read port: 55851
+1691836736523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55845/devtools/browser/6bcf46cd-ba43-43ec-96e2-fab53e3d0c34
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691836754618	Marionette	INFO	Stopped listening on port 55851
+Dynamically enable window occlusion 1
+1691839385652	geckodriver	INFO	Listening on 127.0.0.1:59389
+1691839386172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofilexEug2o"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691839386470	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691839386535	Marionette	INFO	Listening on port 59396
+WebDriver BiDi listening on ws://127.0.0.1:59390
+Read port: 59396
+1691839386733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59390/devtools/browser/e6e936a4-a8ca-4e4b-8c26-a81cc47f9da3
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1691839397625	Marionette	INFO	Stopped listening on port 59396
+Dynamically enable window occlusion 1
+1691839461638	geckodriver	INFO	Listening on 127.0.0.1:59647
+1691839462156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofileZWw6UZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691839462521	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691839462621	Marionette	INFO	Listening on port 59654
+WebDriver BiDi listening on ws://127.0.0.1:59648
+Read port: 59654
+1691839462856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59648/devtools/browser/7fd76061-8fcd-4026-ae58-056fd02c9c67
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691839480746	Marionette	INFO	Stopped listening on port 59654
+Dynamically enable window occlusion 1
+1691839498064	geckodriver	INFO	Listening on 127.0.0.1:59804
+1691839498579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofileZvzIIm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691839498905	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691839498979	Marionette	INFO	Listening on port 59810
+WebDriver BiDi listening on ws://127.0.0.1:59805
+Read port: 59810
+1691839499183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59805/devtools/browser/ee56c20e-8ea8-4f1b-8a9e-591aa8f313d9
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691839506585	Marionette	INFO	Stopped listening on port 59810
+Dynamically enable window occlusion 1
+1691839780201	geckodriver	INFO	Listening on 127.0.0.1:60241
+1691839780710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofileXBao55"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691839781032	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691839781101	Marionette	INFO	Listening on port 60251
+WebDriver BiDi listening on ws://127.0.0.1:60242
+Read port: 60251
+1691839781309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60242/devtools/browser/ec3a1bdb-d468-4243-81f8-79b8ff6d9e24
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691839789307	Marionette	INFO	Stopped listening on port 60251
+Dynamically enable window occlusion 1
+1691840247605	geckodriver	INFO	Listening on 127.0.0.1:61001
+1691840248112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofiler3mls1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691840248428	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691840248498	Marionette	INFO	Listening on port 61007
+WebDriver BiDi listening on ws://127.0.0.1:61002
+Read port: 61007
+1691840248695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61002/devtools/browser/31645bd4-3265-48ec-b17f-af91e2ccf50c
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691841161478	geckodriver	INFO	Listening on 127.0.0.1:62074
+1691841161987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofile5yQqk3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691841162280	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691841162343	Marionette	INFO	Listening on port 62081
+WebDriver BiDi listening on ws://127.0.0.1:62075
+Read port: 62081
+1691841162523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62075/devtools/browser/c6c4b530-4a7c-4478-b2f8-1dfad468dac0
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691841170271	Marionette	INFO	Stopped listening on port 62081
+Dynamically enable window occlusion 1
+1691841208720	geckodriver	INFO	Listening on 127.0.0.1:62220
+1691841209229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofilegFkDw9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691841209526	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691841209591	Marionette	INFO	Listening on port 62229
+WebDriver BiDi listening on ws://127.0.0.1:62221
+Read port: 62229
+1691841209771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62221/devtools/browser/fe72b5b3-b206-4353-960e-7001ecbd10ba
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691841219088	Marionette	INFO	Stopped listening on port 62229
+Dynamically enable window occlusion 1
+1691841266690	geckodriver	INFO	Listening on 127.0.0.1:62392
+1691841267205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofileHYJd4d"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691841267506	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691841267570	Marionette	INFO	Listening on port 62400
+WebDriver BiDi listening on ws://127.0.0.1:62393
+Read port: 62400
+1691841267750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62393/devtools/browser/e878a8bb-8ec0-414a-a3cc-89fc45bb3950
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691841358515	geckodriver	INFO	Listening on 127.0.0.1:62663
+1691841359023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofileIkwvr3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691841359325	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691841359387	Marionette	INFO	Listening on port 62671
+WebDriver BiDi listening on ws://127.0.0.1:62664
+Read port: 62671
+1691841359563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62664/devtools/browser/9d42ac1b-3609-4c89-bf82-a9f05cbaffa7
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691841581473	geckodriver	INFO	Listening on 127.0.0.1:63040
+1691841581993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofileCBs9L5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691841582327	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691841582406	Marionette	INFO	Listening on port 63047
+WebDriver BiDi listening on ws://127.0.0.1:63041
+Read port: 63047
+1691841582585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63041/devtools/browser/1a1fa46d-ecf2-4bbd-9209-107ec564548d
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+1691841923523	geckodriver	INFO	Listening on 127.0.0.1:63531
+1691841924031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jy\\AppData\\Local\\Temp\\rust_mozprofilejDyj7V"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691841924364	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691841924438	Marionette	INFO	Listening on port 63537
+WebDriver BiDi listening on ws://127.0.0.1:63532
+Read port: 63537
+1691841924641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63532/devtools/browser/6174e075-f3a7-4c4e-87ec-630782fda6c6
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement
+JavaScript warning: https://www.gstatic.com/patent-search/frontend/patent-search.search_20230725_RC00/scs/compiled_dir/search-app-vulcanized.js, line 21121: unreachable code after return statement

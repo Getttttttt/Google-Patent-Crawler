@@ -1,0 +1,9 @@
+id-DE102019114467A1    citedBy-1
+id-AT17020U1    citedBy- 
+id-EP3736375A1    citedBy- 
+id-DE102019117146A1    citedBy- 
+id-DE202020104746U1    citedBy- 
+id-DE102019125408A1    citedBy- 
+id-CN110528307A    citedBy- 
+id-EP4038235B1    citedBy- 
+id-CN112824595A    citedBy- 

@@ -1,0 +1,10 @@
+id-CN110130139A    citedBy-1
+id-CN110273318A    citedBy- 
+id-AT521069B1    citedBy- 
+id-CN108486946B    citedBy-1
+id-CN108691233A    citedBy-1
+id-DE102018123380A1    citedBy- 
+id-DE102018121506A1    citedBy- 
+id-FI128325B    citedBy-1
+id-CN109183491A    citedBy-2
+id-US20210310190A1    citedBy-1

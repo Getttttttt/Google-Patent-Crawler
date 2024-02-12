@@ -1,0 +1,8 @@
+id-WO2012152546A1    citedBy- 
+id-CN103748283A    citedBy-3
+id-FI20115629A    citedBy-1
+id-CN103764908B    citedBy-3
+id-WO2012175446A1    citedBy-2
+id-US9797092B1    citedBy- 
+id-DE102011082446A1    citedBy- 
+id-DE102011084116A1    citedBy-1

@@ -1,0 +1,5 @@
+id-WO2011144366A1    citedBy-8
+id-US9459005B2    citedBy-16
+id-DE102010039707A1    citedBy- 
+id-DE102010043024A1    citedBy- 
+id-WO2012069301A1    citedBy-10

@@ -1,0 +1,4 @@
+id-DE202013003323U1    citedBy-4
+id-CA2872299A1    citedBy-3
+id-US20130284402A1    citedBy-1
+id-DE102012221161A1    citedBy-1

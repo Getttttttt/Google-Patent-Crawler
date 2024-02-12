@@ -1,0 +1,16 @@
+id-WO2011091950A2    citedBy-10
+id-US9316123B2    citedBy-3
+id-US8661821B2    citedBy-30
+id-US20110214427A1    citedBy-24
+id-KR101162315B1    citedBy-2
+id-US9856755B2    citedBy-20
+id-EP2392879B1    citedBy-1
+id-EP2388445A1    citedBy-2
+id-US20120042656A1    citedBy-23
+id-WO2012025440A2    citedBy-3
+id-WO2012042101A1    citedBy-5
+id-US9416683B2    citedBy-29
+id-CN102454456B    citedBy-8
+id-KR101044375B1    citedBy-8
+id-US20120129112A1    citedBy-12
+id-KR20130132484A    citedBy-10

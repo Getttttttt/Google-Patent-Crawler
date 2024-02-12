@@ -1,0 +1,17 @@
+id-US8486178B2    citedBy-44
+id-US9518784B2    citedBy-83
+id-KR20090082657A    citedBy-3
+id-KR100988263B1    citedBy-11
+id-KR20090013083U    citedBy-1
+id-US20110185752A1    citedBy-28
+id-TW201013143A    citedBy-6
+id-KR20100005741A    citedBy-2
+id-CN201615718U    citedBy-3
+id-KR101063357B1    citedBy-1
+id-KR100898063B1    citedBy-9
+id-US20100101764A1    citedBy-10
+id-KR100886561B1    citedBy-3
+id-KR20100047938A    citedBy- 
+id-EP2351970B1    citedBy-14
+id-US9207020B2    citedBy-8
+id-KR100901441B1    citedBy-5

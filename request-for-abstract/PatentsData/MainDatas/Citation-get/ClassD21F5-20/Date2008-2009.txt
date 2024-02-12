@@ -1,0 +1,6 @@
+id-US8429832B2    citedBy-24
+id-DE102008000227A1    citedBy-5
+id-CN101981400A    citedBy-6
+id-EP2143841A2    citedBy-3
+id-EP2356281B1    citedBy-3
+id-DE102009035162A1    citedBy- 

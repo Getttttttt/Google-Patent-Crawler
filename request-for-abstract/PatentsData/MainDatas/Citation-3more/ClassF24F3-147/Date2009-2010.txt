@@ -1,0 +1,13 @@
+id-KR20100097528A    citedBy-1
+id-KR101155253B1    citedBy-1
+id-KR20100114157A    citedBy- 
+id-KR101105995B1    citedBy-16
+id-KR100933515B1    citedBy-11
+id-GB2470910A    citedBy-5
+id-KR20110019457A    citedBy- 
+id-US8696805B2    citedBy-23
+id-KR101662315B1    citedBy-1
+id-KR200457692Y1    citedBy-2
+id-DE102009053629B4    citedBy-4
+id-KR101148972B1    citedBy- 
+id-SE534985C2    citedBy- 

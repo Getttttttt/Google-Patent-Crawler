@@ -1,0 +1,14 @@
+id-WO2009096028A1    citedBy-5
+id-KR20090081192A    citedBy-1
+id-KR20090080307A    citedBy- 
+id-KR20090076085A    citedBy- 
+id-KR20090076087A    citedBy- 
+id-US9624109B2    citedBy-33
+id-KR20090087747A    citedBy-1
+id-ES2344494B1    citedBy- 
+id-EP2143891A2    citedBy-4
+id-DE102008032649A1    citedBy-2
+id-US8176724B2    citedBy-21
+id-KR101025050B1    citedBy-5
+id-DE102008047283A1    citedBy-3
+id-EP2360432B1    citedBy-16

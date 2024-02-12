@@ -1,0 +1,17 @@
+id-KR20150087499A    citedBy-1
+id-EP2940257A1    citedBy-5
+id-CN105089721B    citedBy-13
+id-CN106460574A    citedBy-1
+id-US20170122254A1    citedBy-34
+id-US9714643B2    citedBy-11
+id-KR101660173B1    citedBy-1
+id-WO2015194365A1    citedBy-1
+id-EP2955341A1    citedBy-1
+id-CN106574554B    citedBy-5
+id-KR101999034B1    citedBy-3
+id-KR101789873B1    citedBy-30
+id-US10287927B2    citedBy-2
+id-US9562462B2    citedBy-8
+id-US10246650B2    citedBy-8
+id-US20160138428A1    citedBy-5
+id-DE102014016997A1    citedBy-2

@@ -1,0 +1,13 @@
+id-US20140203557A1    citedBy-9
+id-US20140208747A1    citedBy-2
+id-US9032733B2    citedBy-2
+id-US9453433B2    citedBy-2
+id-DE102013010616A1    citedBy-1
+id-WO2015012732A1    citedBy-1
+id-CN203441551U    citedBy-1
+id-ES2529698B1    citedBy- 
+id-US10283797B2    citedBy-11
+id-DE102013015579A1    citedBy-1
+id-CN105722786B    citedBy-3
+id-DE102013016461A1    citedBy-1
+id-EP2878790A1    citedBy-7

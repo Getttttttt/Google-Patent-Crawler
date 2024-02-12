@@ -1,0 +1,12 @@
+id-JP5338730B2    citedBy-16
+id-FR2957389A1    citedBy- 
+id-US20110278859A1    citedBy-3
+id-US20120001436A1    citedBy-64
+id-KR101196229B1    citedBy- 
+id-EP2412942A2    citedBy-5
+id-KR20120012193A    citedBy- 
+id-KR100991919B1    citedBy- 
+id-KR101019869B1    citedBy-1
+id-KR101207799B1    citedBy- 
+id-JP5951204B2    citedBy-14
+id-KR20120033458A    citedBy-1
